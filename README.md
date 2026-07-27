@@ -1,4 +1,4 @@
-# sunglasss-fixing-using-opencv
+# sunglass-fixing-using-opencv
 
 Sturdy Octo Disco is a fun project that adds sunglasses to photos using image processing.
 
